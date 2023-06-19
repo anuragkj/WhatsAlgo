@@ -1,3 +1,4 @@
+#Partition method used is Hoare's since it has better avg time complexity
 def partition(arr, low, high):
  
     pivot = arr[low]
